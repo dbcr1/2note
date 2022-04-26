@@ -1,0 +1,11 @@
+C:\Users\ekuzh\source\repos\2note\bin\Debug\2note.exe.config
+C:\Users\ekuzh\source\repos\2note\bin\Debug\2note.exe
+C:\Users\ekuzh\source\repos\2note\bin\Debug\2note.pdb
+C:\Users\ekuzh\source\repos\2note\obj\Debug\2note.csproj.AssemblyReference.cache
+C:\Users\ekuzh\source\repos\2note\obj\Debug\2note.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekuzh\source\repos\2note\obj\Debug\_2note.note.resources
+C:\Users\ekuzh\source\repos\2note\obj\Debug\_2note.Properties.Resources.resources
+C:\Users\ekuzh\source\repos\2note\obj\Debug\2note.csproj.GenerateResource.cache
+C:\Users\ekuzh\source\repos\2note\obj\Debug\2note.csproj.CoreCompileInputs.cache
+C:\Users\ekuzh\source\repos\2note\obj\Debug\2note.exe
+C:\Users\ekuzh\source\repos\2note\obj\Debug\2note.pdb
